@@ -1,0 +1,45 @@
+
+
+-------------
+  Separator
+-------------
+
+
+
+-------------
+  Separator
+-------------
+
+2026-03-29 16:31:29: ACTION[Main]: World at [/home/rfuerza954/.minetest/worlds/kk]
+2026-03-29 16:31:29: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:58910.
+2026-03-29 16:31:33: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2026-03-29 16:31:51: ACTION[Server]: singleplayer digs default:dirt_with_grass at (-429,15,-4)
+2026-03-29 16:31:52: ACTION[Server]: singleplayer digs default:dirt_with_grass at (-429,15,-5)
+2026-03-29 16:31:54: ACTION[Server]: singleplayer places node default:dirt at (-429,16,-3)
+2026-03-29 16:31:55: ACTION[Server]: singleplayer places node default:dirt at (-431,16,-2)
+2026-03-29 16:32:05: ACTION[Server]: singleplayer leaves game. List of players: 
+2026-03-29 16:32:05: ACTION[Main]: Server: Shutting down
+
+
+-------------
+
+
+-------------
+  Separator
+  Separator
+-------------
+
+-------------
+
+2026-03-29 16:33:42: [Main]: Automatically selecting world at [/home/rfuerza954/.minetest/worlds/kk]
+2026-03-29 16:33:42: [Main]: Automatically selecting world at [/home/rfuerza954/.minetest/worlds/kk]
+2026-03-29 16:37:14: ACTION[Main]: World at [/home/rfuerza954/.minetest/worlds/kk]
+2026-03-29 16:37:14: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:64746.
+2026-03-29 16:37:16: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2026-03-29 16:37:23: ACTION[Server]: singleplayer activates 
+2026-03-29 16:37:25: ACTION[Server]: singleplayer activates 
+2026-03-29 16:37:43: ACTION[Main]: Server: Shutting down
+2026-03-29 16:38:05: ACTION[Main]: World at [/home/rfuerza954/.minetest/worlds/kk]
+2026-03-29 16:38:05: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:59343.
+2026-03-29 16:38:07: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2026-03-29 16:39:59: ACTION[Main]: Server: Shutting down

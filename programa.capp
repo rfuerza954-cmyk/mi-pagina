@@ -1,0 +1,9 @@
+#include <iostream>
+using namespece std;
+
+int main () {
+    cout << "i love" << endl;
+    retrun 0;
+<< "i love" << endl;
+    retrun 0;
+}}
